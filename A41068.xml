@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philanthropia, or, A holding forth of universall immunitie in exercise of Christian religion expressed in a letter to a person of condition.</title>
+            <author>T. F., 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41068</idno>
+            <idno type="STC">Wing F63A</idno>
+            <idno type="STC">ESTC R29799</idno>
+            <idno type="EEBO-CITATION">11208350</idno>
+            <idno type="OCLC">ocm 11208350</idno>
+            <idno type="VID">46775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Philanthropia, or, A holding forth of universall immunitie in exercise of Christian religion expressed in a letter to a person of condition.</title>
+                  <author>T. F., 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Signed: T.F.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:46775:1"/>
+            <pb n="1" facs="tcp:46775:1" rendition="simple:additions"/>
+            <head>
+               <hi>ΦΙΛΑΝΘΡΩΠΙΑ</hi> Or, A holding forth of <g ref="char:V">Ʋ</g>niverſall immunitie in exerciſe of Chriſtian Religion, expreſſed in a Letter to a Perſon of Condition.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>September 18 1659</add>
+                  </date>
+               </dateline>
+               <lb/>
+               <salute>Sir,</salute>
+            </opener>
+            <p>BY this enſuing diſcourſe, you will ſee my judgment. It's true, I do it <hi>currente calamo,</hi> in more haſte, then the gravity of your queſtion merited; but that is to the manner. I am very poſitive, even in my moſt examinate reflexions, as to the matter, to aſſert <hi>liberty of Religion to all Chriſtians,</hi> which therefore I call, as you ſee in the Title.</p>
+            <p>I ſee it much ventilated amongſt our wiſeſt modelers of the Oeconomicall part of our purchaſed liberty in Religion, whether it conſiſtts with a conſcientious and well regulated Common-wealth, to give reſtraint in order to any parties pro<g ref="char:EOLhyphen"/>feſſing Chriſtianity? Whence, upon your commands, I take pen and put to paper, dipt in inke, without the too too ordi<g ref="char:EOLhyphen"/>nary contemperature of gall, as the ſubject requires; religion, if true, being alwayes animated with charity.</p>
+            <p>I profeſs in the firſt place, that as to thoſe whome we call <hi>Papiſts and Prelatiſts,</hi> my education has ſo prevented all for<g ref="char:EOLhyphen"/>raine tinctures, that I am not capable of any further affection, then what the purity of Chriſtian religion avoweth and obli<g ref="char:EOLhyphen"/>geth. And therefore preſcribing to my ſelf thoſe narrow, yet ſanctified bounds, I preſume to offer theſe motives of liber<g ref="char:EOLhyphen"/>ty, as they relate to all, not ſeeing, how we can exclude any, by the principles of Chriſtianity and reaſon.</p>
+            <p>Firſt, I conſider that Religion is a habit or vertue, which
+<pb n="2" facs="tcp:46775:2" rendition="simple:additions"/> hath God for its immediate object, by which we are inclined to perform our <hi>duties</hi> in Divine worſhip, being a <hi>ſpecies</hi> of <hi>juſtice</hi> whoſe formall reaſon, or eſſentiall conſideration (acording to <hi>Logicians</hi> language) conſiſts in rendring to each one valewa<g ref="char:EOLhyphen"/>bly as the commutative, or at leaſt proportionably, as the diſtri<g ref="char:EOLhyphen"/>butive, what is due. Whence to very many of our learned men, it ſeemes to follow, that <hi>Religion</hi> is not within the vierge of humane cognizance, ſince both parties concernd (God being above all laws) are not liable to our Tribunals.</p>
+            <p>Secondly, neither doth the reſtrictive, or rather declarative term <hi>Chriſtian</hi> added to <hi>religion,</hi> enlarge the bounds of hu<g ref="char:EOLhyphen"/>mane cognizance, as to this particular, except ſome Divine delegation may be produced by an authenticall Inſtrument, which hitherto I do not hear is pretended to, by our modern rigid Cenſurers out of holy Scriptures, which only can ſecure the attempt from high preſumption, acording to our Princi<g ref="char:EOLhyphen"/>ples.</p>
+            <p>The great Cleark <hi>Eraſmus,</hi> though a <hi>Papiſt</hi> (whom I wil<g ref="char:EOLhyphen"/>lingly name in this buſineſs, not only for the eminency of his learning, but for the great eſteem our Countrey had of his judgment, as Sr. <hi>Thomas More</hi> witneſſeth in his <hi>Defence againſt Dorpius)</hi> ſurviving til theſe fires began to kindle, took an ea<g ref="char:EOLhyphen"/>ſy occaſion to ſhew the barrennes of holy Writ, as to this particular: and withall, how much he recounts a great Pulpit<g ref="char:EOLhyphen"/>mans applying S. Pauls <hi>heretioum hominem devita, ſhun an here<g ref="char:EOLhyphen"/>tick</hi> to take them off their lifes, that is, to put them to death. Thus zeal not regulated, turns to folly: For the Apoſtle gives not the leaſt hint for it, as the text ſpeakes, and he ſhewes.</p>
+            <p>Thirdly, our bleſſed Lord himſelf gave his great Commiſſion, to the Apoſtles in this form Mat. 28. 19. <hi>Go teach all nations</hi> &amp;c. And the Apoſtle 2. Tim. 2. 24. as it were commenting upon it, ſaith: <hi>The Servant of the Lord muſt not ſtrive, but be gen<g ref="char:EOLhyphen"/>tle to all men, apt to teach, forbearing in meekneſs, inſtructing thoſe that are contrary minded, if God peradventure will giae them</hi>
+               <pb n="3" facs="tcp:46775:2" rendition="simple:additions"/> 
+               <hi>repentance to the acknowledgment of the truth.</hi> Where both texts directs all Chriſtian procedure in Religion, to be by <hi>teaching,</hi> not domineering, or lording over Conſciences. Whence ſurely in order to us, who juſtly pretend higheſt reverence to holy <hi>Scripture,</hi> this plea will ſtop all unlawfull invaſions, and unjuſt uſurpations of Gods prerogative in puniſhing for Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>Fourthly, upon this Divine and Apoſtolicall ſanction, it is evident, (as our learned men obſerve) that the primitive times (by which we have alwayes deſired to modelize our forms of Government, as to matter of Religion) did not at all uſe violence to Conſciences. Inſomuch that <hi>Cyprian</hi> Ep. 62. puts the difference betwixt the Synagogue, and the Chriſtian Church in this, that then by a corporeall, now only by a ſpi<g ref="char:EOLhyphen"/>rituall ſword, contumacy is puniſhable. And hence 380. Yeares after <hi>Chriſt, Idacius Clarus a Spaniſh Biſhop,</hi> was ſe<g ref="char:EOLhyphen"/>ver'd from Chriſtian communion, for having incited the Ma<g ref="char:EOLhyphen"/>giſtrates againſt <hi>Priſcillian,</hi> though an Arch-heretick. It is alſo obſervable, that the <hi>Arians,</hi> who were indeed Anti-Chriſtian, under <hi>Conſtantius,</hi> are known to be the firſt intro<g ref="char:EOLhyphen"/>ducers of ſanguinary, and other compulſive Decrees upon Conſciences in order to belief. With all which is conſiſtent, that <hi>if any under colour of Religion ſhall diſturbe the peace, they juſt<g ref="char:EOLhyphen"/>ly looſe this immunity,</hi> as reaſon demonſtrates and all antiquity confirmes.</p>
+            <p>Fifthly, Peradventure ſome would urge the <hi>Papists</hi> juſt for<g ref="char:EOLhyphen"/>feiture of theſe Chriſtian Rights of religious immunity by their particular demerits in the Gun-powder-treaſon. As to this, Chriſtianity compells me, to vindicate the <hi>body</hi> of them <hi>from the leaſt guilt init;</hi> ſince <hi>K. James</hi> himſelf (who was very pri<g ref="char:EOLhyphen"/>vy to the intriegues of that State-prodigie) in his Proclamati<g ref="char:EOLhyphen"/>on preſently declared them innocent. And indeed <hi>Ariſtotles,</hi> and much more Chriſtian Schools, would condemn it as a great <hi>Solaeciſme,</hi> if they ſhould conclude all of us guilty of every hor<g ref="char:EOLhyphen"/>rid
+<pb n="4" facs="tcp:46775:3"/> crime, which ſome few Proteſtants, to their perpetuall ignominy, are known to have perpetrated, or upon ſuch too too remote Titles ſhould deprive us of our Chriſtian rights, and conſcientious liberties, ſince as each one carries the guilt of his own crime, ſo the puniſhment according to all Law.</p>
+            <p>Sixthly, whereas further may be objected, the cruelty of the modern <hi>Spaniſh inquiſition,</hi> and of the <hi>Prelatique High-Commiſſion.</hi> It is eaſily retorted by them both: why ſhould we embrace, what we diſlike in them? except we will hear from the <hi>Prophet, Videbas furem, &amp; currebas cum eo: you ſaw a thief and did run with him;</hi> that is, to ſteal with him. Shall we erect again pecuniary and coercive courts of Conſcience, which we pul'd down, as being againſt the nature of Conſci<g ref="char:EOLhyphen"/>ence which is only ſubject to Gods Court of Juſtice, as we juſt<g ref="char:EOLhyphen"/>ly alleadged, when it related to our own liberties of Conſci<g ref="char:EOLhyphen"/>ence? As for the <hi>Inquiſition,</hi> we all know, it was introduced to rid the countrey of <hi>Moors</hi> and <hi>Jewes,</hi> which only by the fa<g ref="char:EOLhyphen"/>got could be conſumed: we are not alſo ignorant that it is not introduced as matter of faith amongſt them, neither is it uni<g ref="char:EOLhyphen"/>verſally received. <hi>France</hi> abhors all violence in this kind, <hi>Ger<g ref="char:EOLhyphen"/>many, Flanders, Poland,</hi> and many other parts do not admit it. Muſt <hi>Spain</hi> onely, and onely in this, direct us? <hi>Gregory Na<g ref="char:EOLhyphen"/>zianzen</hi> in his fourth oration, when <hi>Orthodox Christians</hi> had by <hi>Julians</hi> death obtained the worlds Soveraignty (which is our caſe) very piouſly perſwades the Magiſtrates, not to turn the points of their ſwords againſt even Infidels, which they had cruelly ſheathed in our hearts. He gives the reaſon, <hi>Oſtenda<g ref="char:EOLhyphen"/>mus quod illos Doemones doceant, quod rurſum Christus nos erudiat:</hi> Let us ſhew them that the Devill taught them thoſe cruelties, and Chriſt our meekneſs. Hence in <hi>Q. Maries</hi> dayes, the learnedſt perſon of that age <hi>Alphonſus a Castro,</hi> though a Pa<g ref="char:EOLhyphen"/>piſt, preacht at <hi>White-hall</hi> in preſence of K. <hi>Philip</hi> againſt our home ſeverities, as our famous Mr. <hi>Fox</hi> aſſures us: and the
+<pb n="5" facs="tcp:46775:3"/> late Archbiſhop learned Doctour <hi>Laud</hi> after S. <hi>Augustine,</hi> did not hold a gallowes to be a fit argument for converſion of miſ<g ref="char:EOLhyphen"/>underſtanding Souls, as he perſwaded the King, who was therefore wholly againſt it, as he declared upon all occaſions. And he who was, and is celebrated as the wiſeſt of our Pro<g ref="char:EOLhyphen"/>teſtant Princes, hath in print diſowned all co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcion in this kind, as K. <hi>James</hi> in his <hi>Apology to Christian Princes.</hi> And in<g ref="char:EOLhyphen"/>deed though by ſuggeſtion of ſome intemper<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te ſpirits, there hath been too too much ſeverity uſed, ſuch as was old <hi>Cecil,</hi> who made marginall notes upon <hi>Julians Geſts</hi> (the Grand A<g ref="char:EOLhyphen"/>poſtate and ſubdolous perſecutor of Chriſtians) as his <hi>Directory</hi> for proceeding in matter of religion againſt Papiſts: yet in all times the moſt eminent and conſcientious perſons of Church and Common-wealth amongſt us, have diſclaimed and bluſhed at our ſevere lawes againſt religion: which have made us an obloquy to all our n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ig<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bours, even to our brethren the <hi>Hol<g ref="char:EOLhyphen"/>landers,</hi> whoſe Chriſtian policy even beyond envy flouriſheth at <hi>Amſterdam,</hi> and other places, with exemplar piety and freedom. And in the combuſtion, betwixt the <hi>Arminians</hi> and <hi>Gomarists</hi> they experienced a happy effect of this univerſal im<g ref="char:EOLhyphen"/>munity. For even the <hi>Papiſts,</hi> who were very numerous, (and ſurely are ſo here, if we involve all of that judgment, more then is eaſily conceived) aſſured the Magiſtrates, that <hi>their Religion obliged them, to be faithfull to the Superiours,</hi> and that accordingly they would ſtand by them againſt whomſoe<g ref="char:EOLhyphen"/>ver. Upon which ground the wiſeſt people in the World the old <hi>Romans</hi> offered to the <hi>Jewes,</hi> though a conquered Nation, their liberties of religion, as their own hiſtorians, to their ho<g ref="char:EOLhyphen"/>nour, declare, and they had anſwerable effects, as alſo now we ſee in <hi>France,</hi> where our Religion is happily tolerated, with what fidelity the <hi>King of France</hi> ſerveth himſelf in places of chiefeſt truſt in the wars, of the moſt eminent profeſſours of our Religion, and in like manner the <hi>King of Pole</hi> and others. Whence we muſt confeſs that in the judgment of all parties,
+<pb n="6" facs="tcp:46775:4"/> 
+               <hi>Soul-immunity connaturally inferrs a conſcientious fidelity;</hi> and therefore it cannot produce leſs effects here of loyalty in all who ſhall by aboliſhment of compulſive lawes as to conſcience finde the comfort of the freedom, where gratitude in all inge<g ref="char:EOLhyphen"/>nious natures freed from bondage, will imprint indelible cha<g ref="char:EOLhyphen"/>racters of duty to be tranſmitted even to poſterity.</p>
+            <p>Seventhly, It's true that the poſterior <hi>Romans,</hi> the dregs of the old <hi>Heathens,</hi> who like the <hi>Jewes</hi> meaſured all things by the teſt of temporall bleſſings, objected the ill ſucceſs of the Empire, to be from the liberty of Chriſtianity; which moved <hi>Oroſius</hi> by S. <hi>Auguſtines</hi> command to write his hiſtories, as teſtimonies of Gods bleſſings: And it gave occaſion to S. <hi>Au<g ref="char:EOLhyphen"/>guſtin</hi> himſelf to enrich the World with his Books <hi>Of the City of God,</hi> upon the ſame deſign, and to ſhew ill ſucceſſes to have come from themſelves. In the ſame manner we know, that ſome ill natur'd and froward Perſons have ſo far envyed their Neighbours freedom in matters of Conſcience, that, like thoſe old <hi>Heathens,</hi> they would injuriouſly impute our preſent miſeries to this freedom; whereas unqueſtionably the want of univerſall immunity, or rather the violent reſtraint of ten<g ref="char:EOLhyphen"/>der conſciences, ſtroke the firſt fire of all our combuſtions, as no Engliſh-man can be ignorant who hath been contemporary to them. The beſt remedy will be (ſince as nature teacheth <hi>contraria contrariis curautur,)</hi> by a contrary applycation of ten<g ref="char:EOLhyphen"/>derneſs, which will ſincerely unite all affections, as amongſt the old Philoſophers, who though differing in their Tenets, concerning God and his worſhip, yet out of their ſeverall Scholes, in mutuall civill offices obliged each other.</p>
+            <p>Eightly, if we further conſider this buſineſs, as we are <hi>En<g ref="char:EOLhyphen"/>gliſh-men,</hi> that is, true Patriots, having an eye upon our rela<g ref="char:EOLhyphen"/>tions abroad, we cannot but take notice of both our powerfull <hi>neighbours</hi> intereſſed in it, who though out of preſent exigencies of State they may diſſemble the ſenſe they have of our perſe<g ref="char:EOLhyphen"/>cuting their Religion: yet ſince <hi>William</hi> whom we call <hi>Conque<g ref="char:EOLhyphen"/>rour</hi> his triumphs, our countrey hath ſadly experienced in
+<pb n="7" facs="tcp:46775:4" rendition="simple:additions"/> each of them, when not joyned (as now they eaſily may be) their power and readineſs to attaque and invade us, ſomtimes as <hi>Principalls,</hi> other times as <hi>Auxiliaries</hi> to our damage by Sea and Land upon far leſſe pretences, eſpecially when (as is cuſtomary amongſt bordering enemies in military policies) they could <hi>work</hi> fit opportunities, by ſementing, or fomenting our home-diviſions, which a fraternall tenderneſs to each o<g ref="char:EOLhyphen"/>ther, in point of Religion, above all other ties, (and now in our Nation, then in any other, as experience ſhewes) would effectually prevent, and ſecure us far otherwiſe, then the old <hi>Roman</hi> walls againſt the <hi>Picts,</hi> or our dancing and daring bul<g ref="char:EOLhyphen"/>warks againſt <hi>Julius Ceſar</hi> and others, which as we know, ſometimes failed us.</p>
+            <p>Ninthly. Againe, if as prudent and provident perſons we look upon the ſequell of this buſineſs, as it relates even to a ſelfneſs, this little world of ours, for theſe laſt hundred years, having experienced almoſt incredible vertiginous revolutions in matter of Religion, prudent ſelf-ſeeking will teach us, to provide for the like viciſſitudes, by leaving <hi>lenitives</hi> to Poſter<g ref="char:EOLhyphen"/>ity; that in caſe our own Iſſue ſhall differ in opinion, from the future prevailing Doctrines (for among ſo many Sects, none of us can tell, which ſhall laſt get and keep the Chair) they may ſerve as Preſervatives of their eſtates and perſons, e<g ref="char:EOLhyphen"/>ven in theſe religious epidemicall diſeaſes.</p>
+            <p>Tenthly, as concerning our old weather-beaten exception againſt the <hi>Papists</hi> acknowledgment of a forrain power in ſpi<g ref="char:EOLhyphen"/>rituals; Beſides that it carries the anſwear to it ſelf, being in <hi>Spirituals,</hi> and therefore as we muſt confeſſe, not apt to diſ<g ref="char:EOLhyphen"/>turbe our externall peace, it is alſo antiquated by publick con<g ref="char:EOLhyphen"/>ſent of all parts, even where the Papall power is moſt predo<g ref="char:EOLhyphen"/>minant, the actuall coexiſtency of both ſwords by daily experi<g ref="char:EOLhyphen"/>ence being rendred clear to our ſenſes. We muſt acknowledge publick truths: As for example even in <hi>Italy,</hi> as in the caſe of <hi>Parma</hi> and <hi>Modina,</hi> though little Princes, they had no diffi<g ref="char:EOLhyphen"/>culty with their popiſh ſubjects, to maintain their tempo<g ref="char:EOLhyphen"/>rall
+<pb n="8" facs="tcp:46775:5" rendition="simple:additions"/> right, againſt the Popes pretences<g ref="char:punc">▪</g> 
+               <hi>Venice<g ref="char:punc">▪</g>
+               </hi> with high oppoſition in the Magiſtrate, and ſignall allegiance in the ſubjects, Eccleſiaſticall and civill, <hi>France Spain,</hi> and <hi>Germany</hi> give dayly inſtances of their ſecurity, in their ſubjects allegi<g ref="char:EOLhyphen"/>ance, againſt whatſoever ſpecious titles. And even at home under <hi>Henry the 8th.</hi> in thoſe too too high conteſts betwixt him and Pope <hi>Clement,</hi> and under <hi>Q. Elizabeth</hi> after <hi>Pope Pi<g ref="char:EOLhyphen"/>us</hi> his cenſures, and in 88. it is confeſt, that none gave greater ſatisfaction in point of allegiance to our Princes, then the <hi>Pa<g ref="char:EOLhyphen"/>piſts.</hi> Particular Tenets are like opinions, which touch one<g ref="char:EOLhyphen"/>ly ſpeculation, and are circumſcribed to the Scholes, not al<g ref="char:EOLhyphen"/>lowed as to practiſe. So that all parties would now deride us, if we would ſeem to put weight on ſo ſtramineous a foundati<g ref="char:EOLhyphen"/>on, againſt ſo great a good, in order to the publick, as liberty of Conſcience.</p>
+            <p>Laſtly, All which conſiderations duely weighed, will en<g ref="char:EOLhyphen"/>force us to conclude, that they muſt juſtly be preſumed to be e<g ref="char:EOLhyphen"/>nemies of our countreys happines, and of the ſupream govern<g ref="char:EOLhyphen"/>ment, who by perſwading <hi>enforcement of conſcience,</hi> would en<g ref="char:EOLhyphen"/>deavor foverely to kindle diſaffections to Superiours, in all thoſe whom they deſire to be ſeverely handled for religion, and in all forreigners who will be concerned in this common cauſe, which by all lawes (as themſelves heretofore, when they were under the laſh have pleaded) ſhould be moſt free, and in which all men are juſtly moſt tender</p>
+            <p>You may pleaſe to accept this in complyancewith the reſpect I have to your command: The cauſe is common, and therefore I willingly obey you, <hi>ſoule-liberty being the higheſt intereſt of man<g ref="char:EOLhyphen"/>kinde,</hi> and hath the greateſt influence on the proſperity of our own nation, and even of each particular perſon. Our bodies and fortunes are ſubject to higher powers upon juſt exigencies, the ſoule only to God; which, if free, we all meet in our moſt af<g ref="char:EOLhyphen"/>fectuous orizons for the publick concern: and therefore all good Patriots deſire with you not to have it captivated, nor to ſee o<g ref="char:EOLhyphen"/>thers contriſtated for want of enjoyment of every ones due right in this their deareſt intereſt, which is alſo the onely aime of</p>
+            <closer>
+               <signed>Your most obliged Servant. T. F.</signed>
+            </closer>
+            <pb facs="tcp:46775:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
